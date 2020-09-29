@@ -1,1 +1,1 @@
-# SuperApp
+# SimplifyApp
